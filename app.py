@@ -104,6 +104,8 @@ class Wordlist:
             "69",
             # Weed getal - https://www.urbandictionary.com/define.php?term=420
             "420",
+            # Duivel getal - https://en.wikipedia.org/wiki/Number_of_the_beast
+            "666",
             # Elite getal - https://www.urbandictionary.com/define.php?term=1337
             "1337",
             # Afkomstig van een Dragon-ball Z meme - https://en.wikipedia.org/wiki/It%27s_Over_9000!
